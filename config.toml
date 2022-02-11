@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "/"
 languageCode = "en-us"
-title = "Portfolio for Ted Laderas, PhD"
+title = "Portfolio for Steven Winters"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -19,8 +19,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Ted Laderas"
-  description = "Portfolio/CV for Ted Laderas"
+  name = "Steven Winters"
+  description = "Portfolio/CV for Steven Winters"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -50,7 +50,7 @@ disqusShortname = ""
       url = "#"
 
     [[params.navigation.links]]
-      name = "Blog"
+      name = "About Me"
       url = "blogs"
 
     # Add custom links here by uncommenting code below. To remove links just delete
@@ -220,27 +220,18 @@ disqusShortname = ""
     # Uses font awesome icons
     [[params.footer.social]]
       icon = "fa-twitter"
-      url= "https://www.twitter.com/tladeras"
+      url= "https://twitter.com/steve__o24"
       label = "Twitter"
 
-    #[[params.footer.social]]
-     # icon = "fa-facebook"
-      #url= "https://www.facebook.com"
-      #label = "Facebook"
-
-    #[[params.footer.social]]
-     # icon = "fa-instagram"
-      #url= "https://www.instagram.com"
-      #label = "Instagram"
     
     [[params.footer.social]]
       icon = "fa-github"
-      url= "https://www.github.com/laderast"
+      url= "https://github.com/winters24-tech"
       label = "GitHub"
 
     [[params.footer.social]]
       icon = "fa-linkedin"
-      url= "https://www.linkedin.com/in/ted-laderas-0714a92/"
+      url= "https://www.linkedin.com/in/stevenwinters24/"
       label = "LinkedIn"
 
     [[params.footer.quicklinks]]
