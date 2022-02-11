@@ -40,7 +40,7 @@ disqusShortname = ""
   # Navigation Section
   [params.navigation]
     title = "Steven Winters"
-    subtitle = "Cloud Engineer"
+    subtitle = "Hello, welcome to my portfolio! This page will show a graphical overview of the result of my selected projects."
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
