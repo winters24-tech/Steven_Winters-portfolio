@@ -75,8 +75,8 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Ted Laderas, PhD"
-    subtitle = "Portfolio of Data Science and Visualization Projects"
+    title = "Steven Winters"
+    subtitle = "Cloud Engineer"
     buttonText = "Curriculum Vitae"
     url = "cv/"
 
@@ -200,16 +200,16 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "tedladeras (at) gmail.com"
+    email = "steven.idris@yahoo.com"
 
     [[params.contact.phone]]
     title = "Phone"
-    phone = "(000) 000-0000 x1234"
+    phone = "(804) 245-4375"
 
     [[params.contact.address]]
     title = "Address"
-    street = "3181 SW Sam Jackson Road"
-    city = "Portland, OR 97212"
+    street = "12341 Grand Oaks Forest Ct"
+    city = "Chester, VA 23831"
     country = "USA"
 
   # Footer section
