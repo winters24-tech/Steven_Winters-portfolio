@@ -39,8 +39,8 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Ted Laderas, PhD"
-    subtitle = "Data Scientist, Educator, and Collaborator"
+    title = "Steven Winters"
+    subtitle = "Cloud Engineer"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
