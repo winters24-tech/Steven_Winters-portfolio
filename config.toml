@@ -39,7 +39,7 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Steven Winters"
+    title = "Steven "
     subtitle = "Showcase"
     menu = "Menu"
     # Optional logo as brand stored in img/
