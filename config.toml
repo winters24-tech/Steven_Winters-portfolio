@@ -126,12 +126,11 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
+    title = "Cloud and Programming"
+    subtitle = """In the beginning stages of learning it seems like there is so much to learn. That's because there is a lot to learn, therefore having
+    the passion to do comes 2nd to none. Sometimes you don't know where to start and that's ok, get a general understanding of what it is then do research
+    on how you can become better and skillful. No one knows everything, so it's best to pick what you like the most. I've taken the challenge to 
+    learn as much as I can and honestly its all fascinating to me that's what has me on the slow train, I want to know it all!"""
     buttonText = "Get Started"
     url = "blogs"
 
