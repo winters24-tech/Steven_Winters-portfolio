@@ -81,19 +81,19 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "PYTHON Challenges"
       subtitle = "Here you will get to see some the challenges I learned in CodeCademy for Python challenges."
-      image = "pic02.jpg"
+      image = "python.jpg"
       url = "https://github.com/winters24-tech/CodeCademy_Challenges"
 
     [[params.tiles.showcase]]
       title = "CODEPEN Page"
       subtitle = "I had to utilize code pen for some projects executed through free code camp."
-      image = "pic03.jpg"
+      image = "codepen.jpg"
       url = "https://codepen.io/winters24/pens/showcase"
 
     [[params.tiles.showcase]]
       title = "100 Days of Cloud Journey"
       subtitle = "This page is from the community I joined, named 100 Days of Cloud. I'm early in the 100 days journey but still hope you can enjoy!"
-      image = "pic04.jpg"
+      image = "cloud.jpg"
       url = "https://github.com/winters24-tech/100daysOfCloud"
 
 
