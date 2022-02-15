@@ -80,16 +80,16 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Aliquam"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "Cloud Projects"
+      subtitle = "This page reflects some of the cloud projects that I've completed up to this point."
       image = "pic01.jpg"
-      url = "blogs/aliquam"
+      url = "https://github.com/winters24-tech/Cloud-Projects."
 
     [[params.tiles.showcase]]
-      title = "Tempus"
-      subtitle = "Feugiat Amet Tempus"
+      title = "Python Challenges"
+      subtitle = "Here you will get to see some the challenges I learned in CodeCademy for Python challenges."
       image = "pic02.jpg"
-      url = "blogs/tempus"
+      url = "https://github.com/winters24-tech/CodeCademy_Challenges"
 
     [[params.tiles.showcase]]
       title = "Magna"
