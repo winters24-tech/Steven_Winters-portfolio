@@ -95,7 +95,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "100 Days of Cloud Journey"
-      subtitle = "This page is from the community I joined, named "100 Days of Cloud." I'm early in the 100 days journey but still hope you can enjoy!"
+      subtitle = "This page is from the community I joined, named 100 Days of Cloud. I'm early in the 100 days journey but still hope you can enjoy!"
       image = "pic04.jpg"
       url = "https://github.com/winters24-tech/100daysOfCloud"
 
