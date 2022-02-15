@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://stevenwinters.netlify.app/"
 languageCode = "en-us"
-title = "Steven"
+title = "Porfolio of Steven Winters"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -168,30 +168,20 @@ disqusShortname = ""
 
     [[params.contact.address]]
     title = "Address"
-    street = "Street"
-    city = "City, ST 00000"
-    country = "Country"
+    street = "12341 Grand Oaks Forest Ct"
+    city = "Chester, VA 23831"
+    country = "US"
 
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Company Name"
+    copyright = "Steven Winters"
 
     # Uses font awesome icons
     [[params.footer.social]]
       icon = "fa-twitter"
       url= "https://www.twitter.com"
       label = "Twitter"
-
-    [[params.footer.social]]
-      icon = "fa-facebook"
-      url= "https://www.facebook.com"
-      label = "Facebook"
-
-    [[params.footer.social]]
-      icon = "fa-instagram"
-      url= "https://www.instagram.com"
-      label = "Instagram"
     
     [[params.footer.social]]
       icon = "fa-github"
