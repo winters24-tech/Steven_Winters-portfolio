@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://stevenwinters.netlify.app/"
 languageCode = "en-us"
-title = "Forty"
+title = "Steven"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
