@@ -47,10 +47,6 @@ disqusShortname = ""
       name = "Home"
       url = "#"
 
-    [[params.navigation.links]]
-      name = "Generic Blog"
-      url = "blogs"
-
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -80,28 +76,28 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Cloud Projects"
+      title = "CLOUD Projects"
       subtitle = "This page reflects some of the cloud projects that I've completed up to this point."
-      image = "pic01.jpg"
+      image = "pic02.jpg"
       url = "https://github.com/winters24-tech/Cloud-Projects."
 
     [[params.tiles.showcase]]
-      title = "Python Challenges"
+      title = "PYTHON Challenges"
       subtitle = "Here you will get to see some the challenges I learned in CodeCademy for Python challenges."
       image = "pic02.jpg"
       url = "https://github.com/winters24-tech/CodeCademy_Challenges"
 
     [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
+      title = "CODEPEN Page"
+      subtitle = "I had to utilize code pen for some projects executed through free code camp."
       image = "pic03.jpg"
-      url = "blogs/magna"
+      url = "https://codepen.io/winters24/pens/showcase"
 
     [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
+      title = "100 Days of Cloud Journey"
+      subtitle = "This page is from the community I joined, named "100 Days of Cloud." I'm early in the 100 days journey but still hope you can enjoy!"
       image = "pic04.jpg"
-      url = "blogs/ipsum"
+      url = "https://github.com/winters24-tech/100daysOfCloud"
 
     [[params.tiles.showcase]]
       title = "Consequat"
