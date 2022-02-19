@@ -63,7 +63,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Hi, my name is Steven Winters"
-    subtitle = "This is my porfolio showcase to provide a graphical visual to some projects that I've worked on."
+    subtitle = "This is my porfolio showcase to provide a direct link to some projects that I've worked on."
     
 
 
